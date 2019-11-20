@@ -1,0 +1,2 @@
+SPI Slave	KEYWORD1
+Arduino Due	KEYWORD2
